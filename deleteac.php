@@ -19,6 +19,7 @@ setInterval(function(){ countdown(); },1000);
 </script>
 <?php
 $id=$loggedin_id;
+$temp = $id;
 $sql="DELETE FROM member WHERE mem_id='$id'";
 $result=mysqli_query($con,$sql);
 if($result){
