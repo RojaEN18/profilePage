@@ -18,7 +18,7 @@
  </nav>
 </header>
 <div id="center">
-<div id="center-set"> - By Santosh Navale
+<div id="center-set"> - By Roja E N
 <h1 align='center'>Welcome <?php echo $loggedin_session; ?>,</h1>
 You are now logged in. you can logout by clicking on signout link given below.
 <div id="contentbox">
