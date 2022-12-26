@@ -97,6 +97,6 @@ echo ' <div id="reg-head-fail" class="headrg">Login Failed!, Invalid Credentials
 </div>
 </div>
 </div>
-<div id="footer"><p> Copyright &copy; 2022 FresherProfiles.com </p></div>
+<div id="footer"><p> Copyright &copy;  FresherProfiles.com </p></div>
 </body>
 </html>
